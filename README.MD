@@ -19,7 +19,7 @@ In order to Start up the project, in the root create .env with these 3 variables
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/AbdighaniMD/JobsListing_API.git
 ```
 
 Install dependencies
